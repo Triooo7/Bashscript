@@ -1,4 +1,5 @@
-#/bin/bash
+#! /bin/bash
+
 ## here we have the redirect to file
 echo "hello world !!" > output.info 
 ## Here we are giving as shell output 
