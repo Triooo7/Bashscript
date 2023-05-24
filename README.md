@@ -9,8 +9,8 @@ In this FREE Bash Scripting Course, you will learn from printing a simple “Hel
 4-Conditional Statements \
 5-Loops \
 6-Script input \
-7-Script output 
-8-how to send output from one script to another script \
+7-Script output \
+8-How to send output from one script to another script \
 9-String Processing \
 10-Numbers and Arithmetic \
 11-Declare Command \
@@ -24,4 +24,4 @@ In this FREE Bash Scripting Course, you will learn from printing a simple “Hel
 19-Introduction to grep \
 20-Introduction to awk \
 21-Introduction to sed \
-22- Debugging bash scripts 
+22-Debugging bash scripts 
